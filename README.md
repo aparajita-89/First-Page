@@ -25,23 +25,23 @@
 
 <p>
   <!-- GitHub Stats -->
+  <p>
+  <!-- Futuristic Docker Badge -->
+  <img align="center" src="https://img.shields.io/badge/Technology-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
-  <!-- Technology Badges -->
-  <img align="center" src="https://img.shields.io/badge/Technology-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img align="center" src="https://img.shields.io/badge/Technology-Java-green?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-  <img align="center" src="https://img.shields.io/badge/Technology-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img align="center" src="https://img.shields.io/badge/Technology-HTML-red?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-  <img align="center" src="https://img.shields.io/badge/Technology-CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img align="center" src="https://img.shields.io/badge/Technology-React-blue?style=flat-square&logo=react&logoColor=white" alt="React"/>
-  
-  <!-- Visitors Count Badge -->
-  <img align="center" src="https://profile-counter.glitch.me/aparajita-89/count.svg" alt="Visitors"/>
+  <!-- Futuristic AWS Badge -->
+  <img align="center" src="https://img.shields.io/badge/Technology-AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 
-  <!-- Followers Badge -->
-  <img align="center" src="https://img.shields.io/github/followers/aparajita-89?style=social" alt="GitHub Followers"/>
+  <!-- Futuristic Kubernetes Badge -->
+  <img align="center" src="https://img.shields.io/badge/Technology-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   
-  <!-- Profile Views Badge -->
-  <img align="center" src="https://komarev.com/ghpvc/?username=aparajita-89&style=flat-square&color=blue" alt="Profile Views"/>
+  <!-- Futuristic Firebase Badge -->
+  <img align="center" src="https://img.shields.io/badge/Technology-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+  
+  <!-- Futuristic GraphQL Badge -->
+  <img align="center" src="https://img.shields.io/badge/Technology-GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+</p>
+
 </p>
 
 
