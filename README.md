@@ -25,6 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aparajita-89&show_icons=true&locale=en" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aparajita-89&" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aparajita-89&show_icons=true&locale=en&layout=compact" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparajita-89&show_icons=true&locale=en&layout=compact" alt="aparajita-89" style="max-width: 50%;" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aparajita-89" alt="aparajita-89" style="max-width: 33%;"/>
   </a>
