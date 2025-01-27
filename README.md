@@ -21,14 +21,33 @@
 <p><a target="_blank" href="https://twitter.com/soon..." style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/soon..." style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/soon..." style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+
+
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aparajita-89&show_icons=true&locale=en" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aparajita-89&" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aparajita-89&show_icons=true&locale=en&layout=compact" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aparajita-89" alt="aparajita-89" style="max-width: 33%;"/>
-  </a>
+  <!-- GitHub Stats -->
+
+  <!-- Technology Badges -->
+  <img align="center" src="https://img.shields.io/badge/Technology-Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img align="center" src="https://img.shields.io/badge/Technology-Java-green?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img align="center" src="https://img.shields.io/badge/Technology-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img align="center" src="https://img.shields.io/badge/Technology-HTML-red?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img align="center" src="https://img.shields.io/badge/Technology-CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img align="center" src="https://img.shields.io/badge/Technology-React-blue?style=flat-square&logo=react&logoColor=white" alt="React"/>
+  
+  <!-- Visitors Count Badge -->
+  <img align="center" src="https://profile-counter.glitch.me/aparajita-89/count.svg" alt="Visitors"/>
+
+  <!-- Followers Badge -->
+  <img align="center" src="https://img.shields.io/github/followers/aparajita-89?style=social" alt="GitHub Followers"/>
+  
+  <!-- Profile Views Badge -->
+  <img align="center" src="https://komarev.com/ghpvc/?username=aparajita-89&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
+
+
+
+
+
 
 <h2>❤️ Support Me</h2>
 <p><p>
