@@ -21,40 +21,14 @@
 <p><a target="_blank" href="https://twitter.com/soon..." style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/soon..." style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/soon..." style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-
-
 <p>
-  <!-- GitHub Stats -->
-  <p>
-  <!-- Futuristic Docker Badge -->
-  <img align="center" src="https://img.shields.io/badge/Technology-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-
-  <!-- Futuristic AWS Badge -->
-  <img align="center" src="https://img.shields.io/badge/Technology-AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-
-  <!-- Futuristic Kubernetes Badge -->
-  <img align="center" src="https://img.shields.io/badge/Technology-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  
-  <!-- Futuristic Firebase Badge -->
-  <img align="center" src="https://img.shields.io/badge/Technology-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  
-  <!-- Futuristic GraphQL Badge -->
-  <img align="center" src="https://img.shields.io/badge/Technology-GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aparajita-89&show_icons=true&locale=en" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aparajita-89&show_icons=true&locale=en" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aparajita-89&" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aparajita-89&show_icons=true&locale=en&layout=compact" alt="aparajita-89" style="max-width: 33%; margin-right: 10px;"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aparajita-89" alt="aparajita-89" style="max-width: 33%;"/>
   </a>
 </p>
-
-</p>
-
-
-
-
-
 
 <h2>❤️ Support Me</h2>
 <p><p>
