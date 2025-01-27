@@ -34,14 +34,9 @@
   <!-- Futuristic AWS Badge -->
   <img align="center" src="https://img.shields.io/badge/Technology-AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 
-  <!-- Futuristic Kubernetes Badge -->
-  <img align="center" src="https://img.shields.io/badge/Technology-Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  
   <!-- Futuristic Firebase Badge -->
   <img align="center" src="https://img.shields.io/badge/Technology-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  
-  <!-- Futuristic GraphQL Badge -->
-  <img align="center" src="https://img.shields.io/badge/Technology-GraphQL-%23E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+
 </p>
 
 <h2>❤️ Support Me</h2>
